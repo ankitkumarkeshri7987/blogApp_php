@@ -21,7 +21,7 @@ home -> register -> login -> can see your as well as others post ,like,comment -
 
 many thing can be added here : <br>
 1. more styling <br>
-2. more secure <br>
+2. more security <br>
 3. more constrain <br>
 
    and many more feature can be added inside them . <br>
