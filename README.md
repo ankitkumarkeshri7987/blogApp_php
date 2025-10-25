@@ -7,7 +7,7 @@ this all blogApp_php folder you have to put in the xampp collection htdocs folde
 
 stepwise further procedure to run or deploy on your local machine : <br>
 
-step-1: put all those in xampp collection htdocs folder (present in location where you have install xampp , inside xampp you will find "htdocs" folder). <br>
+step-1: put all those in xampp collection htdocs folder RENAME it as "blogApp" (present in location where you have install xampp , inside xampp you will find "htdocs" folder). <br>
 step-2:go inside browser you have to write http://localhost/phpMyadmin(after starting the apache and Mysql by xampp dashboard). <br>
 step-3:I provide sql folder inside them with file blogApp.sql , you have to import it in the phpMyadmin dashboard import option and run/execute. <br>
 step-4:It will create a database name with blogApp and all required table which stores all field required to the webApp. <br>
